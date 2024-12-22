@@ -1,4 +1,4 @@
-🎮 Catch the Falling Balls Game
+🎮 **Catch the Falling Balls Game**
 Welcome to "Catch the Falling Balls," a fun and interactive web-based game where you control a paddle to catch falling balls of different colors. Each color has a unique score value, and your goal is to achieve a target score within the given time limit.
 
 📖 Game Overview
